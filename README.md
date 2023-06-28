@@ -1,6 +1,6 @@
 # Accenture-Data-Analytics-and-Visualization-Virtual-Internship
 ## Certificate:
-[Certificate](https://github.com/Sinhaaz/Accenture-Data-Analytics-and-Visualization-Virtual-Internship/blob/main/Accenture%20North%20America_Data%20Analytics_completion_certificate.pdf)
+[Certificate](Accenture North America_Data Analytics_completion_certificate (2).pdf)
 
 ## Task - 1
 ### Project Understanding:
